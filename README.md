@@ -3,6 +3,10 @@ You can encrypt your files with the aes encryption algorithm.
 
 ## How to use
 
+```bash
+pip install -r requirements.txt
+```
+
 ### For encrypt
 ```bash
 $ python main.py
